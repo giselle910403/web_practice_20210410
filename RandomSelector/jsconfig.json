@@ -1,0 +1,7 @@
+{
+    "typeAcquisition": {
+        "include": [
+            "jquery"  //幫助產生jQuery的語法提示
+        ]
+    }
+}
